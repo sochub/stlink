@@ -18,5 +18,9 @@
 	* [bin固件文件](src/bin)
 	* [源文件](src/source)
 
+### [参考资源](https://github.com/sochub/STLink)
+
+* [stlink](https://github.com/texane/stlink)
+* [stlink-uart](https://github.com/solosky/stlink-uart)
 
 ##  [SoC资源平台](http://www.qitas.cn)
