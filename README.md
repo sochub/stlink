@@ -1,25 +1,22 @@
-﻿# [stlink](https://github.com/mcuyun/stlink) 
+﻿# [STLink](https://github.com/mcuyun/STLink) 
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+[![sites](SoC/qitas.png)](http://www.qitas.cn) 
 
-#### [关于悠云](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+#### 父级：[SDK](https://github.com/sochub/SDK)
 
-## [简介](https://github.com/mcuyun/stlink/wiki) 
+#### 归属：[debug](https://github.com/sochub/debug) 
 
-stlink工具，属于[调试工具](https://github.com/mcuyun/debug)
+## [项目简介](https://github.com/sochub/STLink/wiki)
 
-## [组成](mcuyun/) 
+[ST-LINK/V2](https://www.st.com/zh/development-tools/st-link-v2.html)  for the STM8 and STM32 microcontroller families。
 
-#### [firmware](firmware/) 
+### [资源组成](https://github.com/sochub/STLink)
 
-相关的固件资源firmware
+* [参考文档](docs/)
+	* [芯片手册](docs/)
+* [参考资源](src/)
+	* [bin固件文件](src/bin)
+	* [源文件](src/source)
 
-#### [source](source/) 
 
-相关的源码资源
-
----
-
-###  [悠云，嵌入式开发云](http://www.mcuyun.com)
-####  qitas@qitas.cn
-###  2018-12-29
+##  [SoC资源平台](http://www.qitas.cn)
